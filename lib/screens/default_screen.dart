@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:roll_dice/gradient_container.dart';
+import 'package:roll_dice/container/gradient_container.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
